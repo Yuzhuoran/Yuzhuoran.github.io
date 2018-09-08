@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+.heading {
+    font-size: 2em;
+    position: relative;
+    font-weight: 300;
+
+}
+
+#about {
+    padding: 60px 15px;
+    border-bottom: 1px solid #dcd9d9;
+}
+
+#experience {
+    text-align: center;
+    padding: 40px 15px;
+    border-bottom: 1px solid #dcd9d9;
+
+}
+.backgroud-a {
+    background: #f2f2f5
+}
